@@ -2,12 +2,12 @@
 
 ![Profile banner](./banner.png)
 
-# Hey there! 👋 I'm Your Name
+# Hey there! 👋 I'm Slantex
 
 ### Developer • Creator • Curious mind
 
-[![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&color=111827)](https://github.com/YOUR_USERNAME)
-[![Profile views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=7c3aed)](https://github.com/YOUR_USERNAME)
+[![GitHub followers](https://img.shields.io/github/followers/slantex?style=for-the-badge&logo=github&color=111827)](https://github.com/slantex)
+[![Profile views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=7c3aed)](https://github.com/slantex)
 
 </div>
 
