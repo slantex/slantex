@@ -7,7 +7,7 @@
 ### Developer • Creator • Curious mind
 
 [![GitHub followers](https://img.shields.io/github/followers/slantex?style=for-the-badge&logo=github&color=111827)](https://github.com/slantex)
-[![Profile views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=7c3aed)](https://github.com/slantex)
+[![Profile views](https://komarev.com/ghpvc/?slantex=slantex&style=for-the-badge&color=7c3aed)](https://github.com/slantex)
 
 </div>
 
