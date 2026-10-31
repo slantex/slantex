@@ -1,5 +1,7 @@
 <div align="center">
 
+![Profile banner](./banner.png)
+
 # Hey there! 👋 I'm Your Name
 
 ### Developer • Creator • Curious mind
